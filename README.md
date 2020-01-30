@@ -1,2 +1,2 @@
 # Web_Note_Pad
-Browser based note pad with login
+PHP Browser based note pad with login.
